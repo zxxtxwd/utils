@@ -1,8 +1,15 @@
+"""
+# name: dataplot
+# brief: read data from txt and plot with cursor
+# author: zxx
+# date: 2021.02.23
+"""
+
 import numpy as np
 import pandas as pd
-import torch
-from torch.autograd import Variable
-import torch.nn.functional as F
+# import torch
+# from torch.autograd import Variable
+# import torch.nn.functional as F
 import os
 import matplotlib.pyplot as plt
 
