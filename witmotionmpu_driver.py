@@ -1,5 +1,5 @@
 """
-# name: witmotion
+# name: witmotionmpu_driver
 # brief: read accel data from witmotion module by uart
 # author: zxx
 # date: 20201124
