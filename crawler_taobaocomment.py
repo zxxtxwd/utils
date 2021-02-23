@@ -1,5 +1,5 @@
 """
-# name: crawler_taobao
+# name: crawler_taobaocomment
 # brief: get taobao comment
 # date: 2020.10.29
 # author: zxx
