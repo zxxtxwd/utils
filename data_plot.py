@@ -1,10 +1,9 @@
 """
-# name: dataplot
+# name: data_plot
 # brief: read data from txt and plot with cursor
 # author: zxx
 # date: 2021.02.23
 """
-
 import numpy as np
 import pandas as pd
 # import torch
