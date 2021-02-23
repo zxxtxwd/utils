@@ -4,7 +4,6 @@
 # author: zxx
 # date: 20201124
 """
-
 import time
 import serial
 import serial.tools.list_ports
